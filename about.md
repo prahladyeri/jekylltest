@@ -1,3 +1,7 @@
-# About Me
+---
+layout: default
+title: About
+---
+# About page
 
-Lorem ipsum text.
+This page tells you a little bit about me.
